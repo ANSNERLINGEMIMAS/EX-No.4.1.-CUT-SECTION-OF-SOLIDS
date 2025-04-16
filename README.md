@@ -1,5 +1,7 @@
 # EX No.4.1. CUT SECTION OF SOLIDS
-## DATE:
+## DATE:16.04.25
+Name:Ans Nerling Emima S
+Register No:212224040027
 
 ## AIM
 To create the solid model from given drawing and section the solid model
@@ -41,6 +43,8 @@ To create the solid model from given drawing and section the solid model
 ![image](https://user-images.githubusercontent.com/113594316/198825351-b514a4e7-06af-4ee0-8197-e8267749f8a8.png)
 
 ## OUTPUT:
+![Screenshot 2025-04-16 132055](https://github.com/user-attachments/assets/a07d45be-33eb-49a0-92d5-08423329b7a2)
+
 
 ## RESULT:
 
